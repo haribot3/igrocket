@@ -1,4 +1,3 @@
-instabot
 tqdm
 huepy
 requests
